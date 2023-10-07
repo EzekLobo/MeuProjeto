@@ -1,1 +1,1 @@
-resolução da segunda atividade prática
+resolução da segunda atividade prática - comandos de manipulação git
